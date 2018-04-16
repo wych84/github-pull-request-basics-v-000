@@ -1,4 +1,4 @@
-# Github Pull Request Basics
+o# Github Pull Request Basics (change)
 
 ## Objectives:
 
@@ -89,7 +89,7 @@ jQuery).
 
 Click on the New Pull Request button.
 
-![](https://curriculum-content.s3.amazonaws.com/gitpulls/2.png)
+![]()
 
 ### Step 2
 
@@ -100,7 +100,7 @@ Now click Create pull request.
 
 ![](https://curriculum-content.s3.amazonaws.com/gitpulls/4.jpg)
 
-### Add Commits To An Existing Pull Request
+### Add Commits To An Existing Pull Request ()
 
 Let's say you make a pull request from
 `https://github.com/your-user-name/awesome-lab` to
